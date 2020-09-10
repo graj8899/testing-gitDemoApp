@@ -1,0 +1,7 @@
+C:\Users\g.raj\source\repos\GitDemoApplication\GitDemoApplication\bin\Debug\GitDemoApplication.exe.config
+C:\Users\g.raj\source\repos\GitDemoApplication\GitDemoApplication\bin\Debug\GitDemoApplication.exe
+C:\Users\g.raj\source\repos\GitDemoApplication\GitDemoApplication\bin\Debug\GitDemoApplication.pdb
+C:\Users\g.raj\source\repos\GitDemoApplication\GitDemoApplication\obj\Debug\GitDemoApplication.csprojAssemblyReference.cache
+C:\Users\g.raj\source\repos\GitDemoApplication\GitDemoApplication\obj\Debug\GitDemoApplication.csproj.CoreCompileInputs.cache
+C:\Users\g.raj\source\repos\GitDemoApplication\GitDemoApplication\obj\Debug\GitDemoApplication.exe
+C:\Users\g.raj\source\repos\GitDemoApplication\GitDemoApplication\obj\Debug\GitDemoApplication.pdb
